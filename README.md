@@ -58,5 +58,21 @@ Document differences and improvements.
 
 Output:
 
+
+Initial Prompt
+
+Horse coloring page, black outline drawing, white background, coloring book style.
+
+Refined Prompt
+
+Highly detailed horse coloring page, majestic horse standing in profile, intricate floral and decorative patterns covering the body, adult coloring book style, clean black vector outlines, symmetrical design elements, white background, printable worksheet, crisp edges, high-resolution line art, no shading, no colors.
+
+Alternative Detailed Prompt
+
+Elegant horse with flowing mane, filled with mandala and floral patterns, black-and-white coloring book illustration, highly detailed line art, professional vector drawing, white background, intricate decorative elements, printable coloring page, sharp and clean outlines.
+
+These prompts will generate images very similar in style to the butterfly coloring-page reference, but with a horse as the main subject.
+
+
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
